@@ -1,0 +1,76 @@
+About Xanadu
+Xanadu’s mission is to build quantum computers that are useful and available to people
+everywhere.
+At Xanadu, we are learners, innovators, researchers, collaborators and problem solvers. We are
+creating something that has never been built before.  What we are doing is extremely hard, the
+classic moon shot. Few people in their life will be able to be a part of something like this, where if
+we are successful, the technologies we develop will solve some of the world’s most challenging
+problems and literally change the world. And that is something to be excited about!
+Your Role and Responsibilities
+As a Software Developer, you will contribute to the platform and the infrastructure for our software
+and hardware products. You will work on a team to support Hardware R&D, Hardware Operations,
+Cloud Infrastructure, and Developer Enablement. The Tools Team’s primary goal is to help
+accelerate the Hardware Team’s timelines to build the first commercially viable quantum computer.
+As a result, you will completely reshape the nature of computation as we know it. You will:
+Design, build, deploy, and maintain tooling, data management, and communication software
+products, including their supporting infrastructure, that enable various parts of our hardware
+development and operation processes.
+Design APIs for consumption by internal and external services.
+Work closely with Hardware Engineers to design and implement solutions to enable quantum
+hardware operation.
+Ensure high-quality production code by maintaining automated test coverage and a dynamic
+code review process.
+Perform DevOps tasks, such as maintaining our CI/CD pipeline using GitHub Actions.
+At Xanadu, we primarily work with Python, Rust, C++, Postgres, Redis, Docker, CI pipelines, and
+multiple cloud platforms. Proficiency in at least a subset of these technologies is essential.
+Basic qualifications and experience
+BSc in Computer Science, Engineering, Physics, Math, or a related field.
+4+ years of software development experience.
+Strong knowledge of modern development languages like Python, Rust, or Go.
+Experience with any major cloud providers: AWS, GCP or Azure.
+Product-minded approach to software development.
+In-depth knowledge of different software development methods such as Test Driven
+Development, Unit Testing, Agile, etc
+Self-driven to deliver high-quality solutions to your stakeholders.
+Comfortable working in a fast-paced environment.
+Strong communication and collaboration skills.
+Preferred qualifications and experience
+Experience with AWS.
+Experience with Rust.
+Experience with ETL pipelines.
+Experience with multiple data storage technologies.
+Experience with front-end web development, extra points for WebGL experience.
+DevOps experience
+Values
+Our values are important. They are fundamental and lay the foundation for the culture at Xanadu.
+At Xanadu, we are committed to building an inclusive, safe, and equitable culture and fostering an
+environment where our employees feel included, valued, and heard. We are committed to meeting
+the needs of all individuals and support a barrier-free workplace. Should you require
+accommodations at any point during the recruitment process please contact Human Resources at
+hr@xanadu.ai.
+Apply for this position
+REQUIRED *
+Human Check *
+reCAPTCHA
+I'm not a robot
+Privacy  -  Terms
+First Name *
+Last Name *
+Email Address *
+Phone *
+Address
+Address
+City State/Province Postal
+Resume *
+Attach resume or Paste resume
+Are you authorized to work in Canada?* (i.e. citizenship, permanent
+resident or a valid work permit) *
+-- No answer --
+If you are working in Canada on the basis of a work permit, what is
+the expiry date of your current work permit? (select date)
+Have you been convicted of a criminal offense for which a pardon or
+record suspension has not been granted?* *
+-- No answer --
+How did you hear about us? *
+-- No answer --
+SUBMIT APPLICATION

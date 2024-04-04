@@ -1,0 +1,73 @@
+Software Developer 
+ 
+At Interac, we design and deliver products and solutions that give Canadians control over their money so they 
+can get more out of life. But that’s not all. Whether we’re leading real-time money movement, driving innovative 
+commerce solutions like open payments for transit systems, or making advancements in new areas like 
+verification and open banking, we are playing a key role in shaping the future of the digital economy in Canada. 
+ 
+Want to make a lasting impact amongst a community of creative thinkers, problem solvers, technical gurus and 
+high-performance application developers? We want to hear from you. 
+ 
+The Software Developer—reporting to the Leader, Development - e-Transfer—will be responsible for developing 
+and maintaining the company’s highly distributed, high-performance payment system. They will use their 
+passion for building new products to translate the client’s business requirements and design and develop Java 
+applications on a complex platform. With their experience in database model design for high performance 
+systems, they will perform analysis, design, implement, and conduct performance testing and tuning.  
+You’ll be responsible for:   
+Developing and maintaining resilient microservices applications including analysis, design, 
+development, and implementation. 
+Participating in system and application architecture & creating system design and application 
+maintenance documents. 
+Writing clean, maintainable, testable, and efficient code, adhering to our code standards and best 
+practices. 
+Collaborating on larger architectural visions and gravitating towards simplicity. 
+Running API & Microservices technologies and containers (Spring Boot, Istio, Envoy, Docker, 
+Kubernetes). 
+Database design and development using relational databases such as Oracle. 
+You bring:   
+A University degree in Computer Science or an equivalent combination of education and experience. 
+5+ years software development experience; preferably with experience in developing payment 
+systems. 
+Eligibility to work for Interac Corp. in Canada in a full-time capacity.  
+Proficiency in multiple programming languages with a strong background in Java.  
+Expertise in designing and developing RESTful APIs and a good understanding of various web 
+protocols. 
+Strong knowledge of Java frameworks (Spring, Spring Boot, Hibernate, Camel, Netty), Maven, SQL, 
+Bamboo, JavaScript (Node, Knockout, JQuery), Caching (Hazelcast, Memcached). 
+A strong understanding implementing high-performance, service-oriented architectures. 
+A strong understanding of relational databases, data modeling, with extensive experience using 
+either Oracle or PostgreSQL. 
+An ability to assist with the design and implementation of enterprise level frameworks, broad-based 
+functional and technical software solutions. 
+A solid understanding of design patterns, data structures, algorithms, and software engineering 
+principles. 
+Experience with microservice architectures and containerization.  
+Excellent verbal and written communication skills. 
+Interac requires employees to complete a background check that is completed by one of our service providers. 
+We use this service to complete the following checks:
+5-year employment verification;
+Canadian criminal record check;
+Education verification;
+Canadian ID cross-check;
+Public safety verification; and
+Credit inquiry
+How we work
+We know that exceptional people have great ideas and are passionate about their work.  Our culture encourages 
+excellence and actively rewards contributions with:
+Connection: You’re surrounded by talented people every day who are driven by their passion of a common goal.
+Core Values:  They define us. Living them helps us be the best at what we do.
+Compensation & Benefits: Pay is driven by individual and corporate performance and we provide a multitude of 
+benefits and perks.
+Education: To ensure you are the best at what you do we invest in you
+Apply
+Software Developer
+About Interac
+Interac is one of Canada’s original 
+FinTechs. We launched Interac e-
+Transfer years before other countries 
+offered similar services and continue to 
+innovate to improve the lives of 
+Canadians. Every day, we enable Read More
+Interac Corp. Careers
+Sign In
+Home Search for Jobs

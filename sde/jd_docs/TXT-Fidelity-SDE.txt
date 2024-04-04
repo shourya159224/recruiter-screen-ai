@@ -1,0 +1,99 @@
+Job Description
+Current work authorization for Canada is required for all openings
+Who We Are
+At Fidelity, we’ve been helping Canadian investors build better financial futures for over 35 years.  We offer 
+individuals and institutions a range of trusted investment portfolios and services - and we’re constantly seeking 
+to find new and better ways to help our clients.  As a privately owned company, we boldly embrace innovation in 
+all areas as we continue to grow our business into the future.
+Working with us means you’ll be part of a diverse and dedicated group of people who make a real difference for 
+our clients and communities every day. You’ll have a wide range of opportunities to grow and develop your 
+career in an inclusive environment where you’ll feel valued and supported to be your best - both personally and 
+expertly.
+Business Overview
+The CRM support group is part of IS division and provides support for Customer Relationship Management and 
+Marketing applications for Fidelity Investments Canada.
+Reporting to the CRM Support Team Manager, the software developer is responsible for development and 
+support of Customer Relationship Management and Events Management technical solutions for Fidelity Canada. 
+This includes support of existing CRM and Marketing tools, evaluation and development of new solutions based 
+on specific business requirements and rotating on-call support for SalesForce.com and Marketo applications. 
+The candidate will play a pivotal role in connecting disparate systems to the Salesforce platform, with a core 
+focus on backend solutions including Apex and APIs. While the emphasis is on Salesforce and system 
+integrations, any experience with Marketo, especially concerning smart campaigns, webhooks, and 
+administration, will be considered a strong plus.
+Key Accountabilities
+Architect, develop, and maintain system integrations with Salesforce using a variety of APIs
+Write and optimize backend code, primarily in Apex, to extend Salesforce functionalities
+Develop and configure event management tool (Marketo)
+Collaborate with stakeholders to ensure integration solutions are scalable and meet business 
+requirements
+Provide technical support for integrated systems, troubleshooting issues and ensuring smooth data 
+flow
+Support Marketo-related initiatives, especially concerning smart campaigns, webhooks, and 
+administration
+Complete required unit-testing, and cooperate with other IS and business teams to ensure timely, 
+efficient, and errors-free implementation
+Participate in planning and execution of CRM and Events Management tools upgrades and 
+migrations
+Proactively promote enhancements to departmental processes, technical and business solutions
+Skills, Knowledge and Experience
+2+ years of experience with Salesforce platform, emphasizing backend solutions (Apex and APIs) as well as 
+system integration
+Familiarity with data governance and security best practices.
+Experience developing in Java, experience with Web Services Development
+Solid experience with the full life cycle of software development
+Strong leadership skills
+Detail oriented, with strong analytical skills
+Customer service oriented
+Solid written and verbal communication skills; ability to effectively communicate technical concepts 
+to business users
+Self-starter with strong teamwork culture
+General understanding of the financial services sector
+Nice to Have
+Hands-on experience with Marketo, especially concerning smart campaigns, webhooks, and 
+administration
+Experience with Salesforce Service Cloud development
+Experience with Salesforce Financial Cloud development
+Development experience with REST Web Services
+Development experience in Mutual Funds industry
+Education
+University degree, preferably in Computer Science, or equivalent work experience
+Salesforce Certification – Salesforce Certified Platform Developer I or II preferred
+Fidelity Canada is an equal opportunity employer 
+Fidelity Canada is committed to fostering a diverse and inclusive workplace. We will consider all qualified 
+applicants for employment regardless of race, color, religion, sex, sexual orientation, gender identity or 
+expression, national or ethnic origin, age, disability, family status, protected veterans’ status, Aboriginal/Native 
+American status or any other legally-protected ground. 
+Accommodation during the application process
+Fidelity Canada welcomes and encourages applications from people with disabilities. Accommodations are 
+available on request for candidates taking part in the selection process. If you require an accommodation, 
+please email us at  FidelityCanadaStaffing@fidelity.ca .
+No telephone inquiries or agencies please. We thank all applicants for their interest, please be advised that only 
+those selected for an interview will be contacted.
+Why Work at Fidelity?
+We are proud to be recipients of the following:
+Awards
+Canada's Top Family-Friendly Employers 2023 (7th consecutive year)
+Canada's Top 100 Employers 2023 (7th consecutive year)
+Greater Toronto's Top Employers 2023 (10th consecutive year)
+Canada's Top Employers for Young People 2023
+Venngo Healthy Workplaces Award Workplace Benefits Awards – Health and Wellness Program
+HRDC Best Places to Work 2023
+HRDC 5-Star Diversity & Inclusion Employer
+HRDC 5-Star Benefit Program 2023
+Designations
+A Canadian Compassionate Company
+Great Place to Work (Dec 2022 - Nov 2023)
+Best Workplaces for Women 2023 by Great Place to Work
+Apply
+Machine Learning DevOps
+Analyst
+Software Developer Software Developer
+About Us
+Fidelity Canada has become an 
+employer of choice for talented people 
+seeking rewarding career opportunities 
+in the financial services industry. We 
+look to hire outstanding individuals who 
+want to maximize their potential and be Read More
+English Sign In
+Search for Jobs
